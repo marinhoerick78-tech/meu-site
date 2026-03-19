@@ -1,0 +1,15 @@
+body {
+    background-color: #121212;
+    color: white;
+    font-family: Arial;
+    text-align: center;
+}
+h1 {
+    color: cyan;
+}
+button {
+    background-color: cyan;
+    border: none;
+    padding: 10px 20px;
+    cursor: pointer;
+}
